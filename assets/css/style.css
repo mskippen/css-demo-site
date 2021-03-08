@@ -1,13 +1,19 @@
+
+/* general selector style  */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+
+/* set body style  */
 body {
     background-color: #d9dcd6;
 }
 
+
+/* header class selector */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
